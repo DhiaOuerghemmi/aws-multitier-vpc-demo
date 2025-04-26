@@ -1,0 +1,8 @@
+# Ignore screenshots you might replace
+screenshots/*.psd
+# macOS
+.DS_Store
+# Logs
+*.log
+# AWS CLI state
+*.tfstate
